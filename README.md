@@ -1,4 +1,4 @@
-# hy-vue-temp
+# huqing vue template
 
 ## Project setup
 ```
